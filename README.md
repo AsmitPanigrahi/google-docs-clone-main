@@ -93,6 +93,3 @@ We welcome contributions! To get started:
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-
-Built with ❤️ by [Yash](https://github.com/yash27007)
